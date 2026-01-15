@@ -11,5 +11,6 @@
 #include "grassland/math/math_svd.h"
 #include "grassland/math/math_triangle.h"
 #include "grassland/math/math_util.h"
+#include "grassland/math/math_spatial.h"
 
 namespace grassland {}  // namespace grassland

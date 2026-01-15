@@ -16,6 +16,8 @@ using Eigen::Vector;
 using Eigen::Vector2;
 using Eigen::Vector3;
 using Eigen::Vector4;
+using Eigen::VectorX;
+using Eigen::MatrixX;
 
 template <typename Scalar>
 LM_DEVICE_FUNC Scalar Eps();
