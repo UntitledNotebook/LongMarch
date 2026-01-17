@@ -15,6 +15,7 @@
     "tinyobjloader",
     "assimp",
     "tinyxml2",
+    "nlohmann-json",
     "boost-numeric-conversion",
     "boost-odeint",
     {

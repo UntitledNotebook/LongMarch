@@ -22,8 +22,6 @@ namespace contradium::rbd {
  * pseudo-code in the RBDA book.
  */
 struct Model {
-  EIGEN_MAKE_ALIGNED_OPERATOR_NEW
-
   Model();
 
   // =========================================================================
